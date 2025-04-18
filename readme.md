@@ -19,6 +19,10 @@ The website contains the following sections:
 - **FAQ Section**: Frequently asked questions with a collapsible accordion.
 - **Contact Section**: A simple contact form and embedded Google Map.
 
+## Screenshot
+
+![screenshot](ss.png)
+
 ## Technologies Used
 
 - **HTML**: For structuring the webpage.
